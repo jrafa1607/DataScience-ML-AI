@@ -1,0 +1,41 @@
+=========================================
+INFORMAÇÕES COMPLEMENTARES SOBRE A
+EXPERT SINTA VISUAL COMPONENT LIBRARY
+=========================================
+
+Versão: 1.1
+Data:   02 de maio de 1998
+
+	A documentação de uso da biblioteca Expert SINTA VCL encontra-se
+em um documento a parte, o qual pode ser conseguido no mesmo site de onde
+o presente arquivo foi transferido. O nome do arquivo é exvcldoc.zip.
+	Para instalar a biblioteca no Borland Delphi, use o arquivo 
+exsystem.pas como arquivo de instalação.
+	Embora não seja garantido nenhum suporte técnico, bem como o
+perfeito funcionamento do software aqui apresentado, sinta-se livre para
+enviar sugestões e descobertas de bugs para o endereço eletrônico
+
+	bezerra@lia.ufc.br
+
+	Também será necessário o Expert SINTA 1.1a de 04/05/97 ou mais novo, 
+pois é através do mesmo que os códigos de variáveis necessários para a 
+programação com a Expert SINTA VCL são extraídos. Versões anteriores do 
+Expert SINTA não possuem essa característica.
+
+OBSERVAÇÃO:
+COM A PUBLICAÇÃO DO CÓDIGO FONTE DA EXPERT SINTA VCL NO SEGUNDO SEMESTRE DE 
+1997, A PROTEÇÃO POR SENHAS NÃO GARANTE MAIS NENHUMA SEGURANÇA, POIS O
+FORMATO DO ARQUIVO "BCM" TORNAR-SE PÚBLICO. VALE RESSALTAR, PORÉM, QUE DESDE
+O INÍCIO FOI AFIRMADO QUE A PRINCIPAL FUNÇÃO DO USO DE SENHAS EM UMA BASE
+DE CONHECIMENTO EXPERT SINTA ERA PRINCIPALMENTE PARA INDICAR AS INTENÇÕES
+DOS AUTORES DO SISTEMA ESPECIALISTA QUANTO AO SEU USO. MESMO SEM PROTEÇÃO,
+OS USUÁRIOS DE TAIS SISTEMAS DEVEM CONTINUAR RESPEITANDO ESTAS NORMAS. 
+O PRÓPRIO SISTEMA DE SENHAS ERA BASTANTE SIMPLES, E NÃO HAVIA A INTENÇÃO
+DE APRESENTÁ-LO COMO UMA PROTEÇÃO CONFIÁVEL.
+
+PARA APLICAÇÕES WINDOWS 3.1, AUMENTE O TAMANHO DA PILHA NO CASO DE QUEDAS
+DURANTE UMA CONSULTA.
+
+	Ricardo Bezerra,
+	Laboratório de Inteligência Artificial/LIA,
+	Universidade Federal do Ceará		

@@ -1,0 +1,4 @@
+Neste diretório estão componentes de terceiros usados no Expert SINTA.
+
+O arquivo TB97_147 deve ser usado no Delphi 1.0, enquanto o outro TB usa-se
+no Delphi 32 bits.

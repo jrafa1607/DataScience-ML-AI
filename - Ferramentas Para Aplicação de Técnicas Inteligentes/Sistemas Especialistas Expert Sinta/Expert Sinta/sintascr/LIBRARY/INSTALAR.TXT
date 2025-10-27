@@ -1,0 +1,4 @@
+Ao compilar, junte num mesmo diretório arquivos deste diretório com os do 
+subdiretório "32bit" (ou "16bit", no caso de Delphi 1.0).
+
+Instale no Delphi a partir do arquivo ExSystem.pas

@@ -1,0 +1,46 @@
+Expert SINTA Visual Component Library (Expert SINTA VCL) e
+Expert SINTA Shell
+
+Licença de uso
+
+	Este é um documento informal sugerindo a utilização do software
+supracitado na forma desejada pelos seus autores:
+
+1) A ferramenta Expert SINTA e a biblioteca Expert SINTA VCL podem ser 
+   distribuídas livremente para fins não comerciais, mas somente em
+   seus arquivos originais (sinta.zip/sinta32.zip/sintasrc.zip/exvcld2.zip/
+   exvclsrc.zip) provenientes do Laboratório de Inteligência Artificial (LIA), 
+   sem a exclusão ou inclusão de nenhum item. Ou seja, não é permitida a
+   revenda deste software por terceiros em hipótese alguma;
+2) Este documento não se aplica a produtos comerciais. Caso deseje utilizar
+   algum elemento do Expert SINTA (shell ou biblioteca) comercialmente, entre
+   em contato com o LIA. É permitido o uso do software em questão para 
+   aplicações não comerciais sem quaisquer restrições que não desrespeitem 
+   os demais tópicos desta licença;
+3) Para aplicações que utilizem o shell, simplesmente inclua junto ao seu 
+   trabalho os pacotes de arquivos necessários relativos ao Expert SINTA;
+4) Para aplicações que utilizem a Expert SINTA VCL sem distribuição de código
+   fonte, não há restrições de uso;
+5) Para aplicações que utilizem a Expert SINTA VCL e com código fonte 
+   disponível publicamente, dois casos devem ser observados:
+   -- Não houve modificação da biblioteca. Neste caso inclua a VCL de acordo
+      com o primeiro tópico;
+   -- Houve modificações. Entre em contato com os autores apenas para indicar
+      as modificações feitas. Estas podem ser úteis para a elaboração de
+      futuras versões;
+6) Para distribuir versões modificadas do Expert SINTA e da Expert SINTA VCL, 
+   o que não é a mesma coisa de distribuir aplicações que os utilizem (tópico
+   anterior), entrar em contato com LIA para que apenas uma versão unificada 
+   destes softwares seja distribuída. Sugestões de modificações são sempre 
+   bem-vindas, mas devem ser controladas de forma a não existir diversas 
+   adaptações do shell e da biblioteca, não aproveitando totalmente o que 
+   cada colaborador teria a oferecer. As decisões de alterações devem ser 
+   centralizadas no LIA;
+7) Em todos os casos, sempre citar a origem do software utilizado:
+   o Laboratório de Inteligência Artificial (LIA), através do grupo SINTA;
+
+Fortaleza, 07 de setembro de 1997
+Grupo SINTA - Sistemas INTeligentes Aplicados
+
+Laboratório de Inteligência Artificial
+http://www.lia.ufc.br

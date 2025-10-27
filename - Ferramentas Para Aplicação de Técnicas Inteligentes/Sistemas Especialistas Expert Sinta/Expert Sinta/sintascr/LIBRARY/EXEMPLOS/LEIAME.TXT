@@ -1,0 +1,4 @@
+Para melhor compreender estes exemplos, consulte a 
+documentação da Expert SINTA VCL
+
+http://www.lia.ufc.br
