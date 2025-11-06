@@ -21,14 +21,6 @@ This repository emphasizes practical application and foundational knowledge acro
 
 ---
 
-## ⚙️ Structure and Technologies
-
-* **Language:** Python
-* **Environment:** Google Colab / Jupyter Notebook
-* **Key Libraries:** *Details on specific libraries (e.g., NumPy, Pandas, Scikit-learn, TensorFlow) can be found within the respective project folders.*
-
----
-
-## 🔗 Resources and References
+## 🔗⚙️ Resources and References
 
 In addition to the provided code, this repository includes links and references to external resources, articles, and documentation to facilitate a deeper understanding of the concepts presented.
