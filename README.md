@@ -11,7 +11,7 @@ This repository emphasizes practical application and foundational knowledge acro
 | **Databases** | Datasets to Make the Experiments. |
 | **Power BI** | Example of Power BI Application. |
 | **ML Tools** | Set of tools and frameworks to apply ML. |
-| **Viewing and Analytics** | Codes to generate insightful visualizations - Exploratory Data Analysis (EDA). |
+| **Viewing/Analytics** | Codes to generate insightful visualizations - Exploratory Data Analysis (EDA). |
 | **Pre-processing** | Essential steps for data cleaning, transformation, normalization, and handling missing values to prepare data for ML models. |
 | **Dimensionality Reduction** | Algorithms (e.g., PCA, t-SNE) for reducing the number of features while preserving essential information, improving model performance and reducing computational cost. |
 | **Specific Error Handling in ML** | Techniques dedicated to identifying and resolving unique issues and biases that arise in Machine Learning datasets and models (e.g., class imbalance, specific outliers). |
