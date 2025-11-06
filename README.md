@@ -12,8 +12,8 @@ This repository emphasizes practical application and foundational knowledge acro
 | **Power BI** | Example of Power BI Application. |
 | **ML Tools** | Set of tools and frameworks to apply ML. |
 | **Viewing / Analytics** | Codes to generate insightful visualizations - Exploratory Data Analysis (EDA). |
-| **Pre-processing** | Essential steps for data cleaning, transformation, normalization, and handling missing values to prepare data for ML models. |
-| **Dimensionality Reduction** | Algorithms (e.g., PCA, t-SNE) for reducing the number of features while preserving essential information, improving model performance and reducing computational cost. |
+| **Pre-processing** | Essential steps for data cleaning, transformation, normalization, and handling missing values. |
+| **Dimensionality Reduction** | Codes for reducing the number of features while preserving essential information. |
 | **Specific Error Handling in ML** | Techniques dedicated to identifying and resolving unique issues and biases that arise in Machine Learning datasets and models (e.g., class imbalance, specific outliers). |
 | **Machine Learning Techniques** | Implementations of a variety of ML algorithms, including supervised (e.g., Regression, Classification), unsupervised (e.g., Clustering), and deep learning methods. |
 | **Jupyter/Colab Basic Concepts** | Tutorials and notebooks covering fundamental usage and features of the Jupyter Notebook and Google Colab environments. |
