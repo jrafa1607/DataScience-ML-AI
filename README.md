@@ -13,8 +13,8 @@ This repository emphasizes practical application and foundational knowledge acro
 | **ML Tools** | Set of tools and frameworks to apply ML. |
 | **Viewing / Analytics** | Codes to generate insightful visualizations - Exploratory Data Analysis (EDA). |
 | **Pre-processing** | Codes for Data cleaning, transformation, normalization, handling missing values, etc. |
-| **Dimension Reduction** | Codes for reducing the number of features while preserving essential information. |
-| **Specific Error Handling in ML** | Techniques dedicated to identifying and resolving unique issues and biases that arise in Machine Learning datasets and models (e.g., class imbalance, specific outliers). |
+| **Size Reduction** | Codes for Dimensionality Reduction - reducing the number of features in a Dataset. |
+| **Specific Errors** | Techniques to identifying and resolving specifics issues in ML datasets and models. |
 | **Machine Learning Techniques** | Implementations of a variety of ML algorithms, including supervised (e.g., Regression, Classification), unsupervised (e.g., Clustering), and deep learning methods. |
 | **Jupyter/Colab Basic Concepts** | Tutorials and notebooks covering fundamental usage and features of the Jupyter Notebook and Google Colab environments. |
 | **Python Basic Concepts** | Essential Python syntax, data structures, and programming concepts tailored for data manipulation and scientific computing. |
