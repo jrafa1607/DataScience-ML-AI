@@ -3,7 +3,7 @@ This repository serves as a centralized collection of Python algorithms and reso
 
 ---
 
-## 🎯 Repository Focus and Key Areas
+## 🔗🎯 Repository Focus and Key Areas
 This repository emphasizes practical application and foundational knowledge across various stages of the data science and ML pipeline.
 
 | Category | Description |
@@ -21,7 +21,3 @@ This repository emphasizes practical application and foundational knowledge acro
 | **Python Basic Concepts** | Python syntax, data structures, and concepts for scientific computing. |
 
 ---
-
-## 🔗⚙️ Resources and References
-
-In addition to the provided code, this repository includes links and references to external resources, articles, and documentation to facilitate a deeper understanding of the concepts presented.
