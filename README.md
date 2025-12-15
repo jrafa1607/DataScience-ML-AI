@@ -15,6 +15,7 @@ This repository emphasizes practical application and foundational knowledge acro
 | **Pre-processing** | Codes for Data cleaning, transformation, normalization, handling missing values, etc. |
 | **Size Reduction** | Codes for Dimensionality Reduction - reducing the number of features in a Dataset. |
 | **Specific Errors** | Techniques to identifying and resolving specifics issues in ML datasets and models. |
+| **Rule-based Techniques** | Techniques based on human-understandable rules instead of statistical learning from data. |
 | **ML Techniques** | ML algorithms, including supervised, unsupervised, and deep learning methods. |
 | **Colab Basic Concepts** | Notebooks covering fundamental usage and features of the Google Colab. |
 | **Python Basic Concepts** | Python syntax, data structures, and concepts for scientific computing. |
