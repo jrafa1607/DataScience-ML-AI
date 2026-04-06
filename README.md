@@ -3,7 +3,7 @@ This repository serves as a centralized collection of Python algorithms and reso
 
 ---
 
-## 🔗🎯 Repository Focus and Key Areas
+## 🔗🎯 Repository Description
 This repository emphasizes practical application and foundational knowledge across various stages of the data science and ML pipeline.
 
 | Category | Description |
