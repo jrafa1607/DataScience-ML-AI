@@ -8,7 +8,7 @@ This repository emphasizes practical application and foundational knowledge acro
 
 | Category | Description |
 | :--- | :--- |
-| **Databases** | Datasets to Make the Experiments. |
+| **Datasets** | Datasets to Make the Experiments. |
 | **Power BI** | Example of Power BI Application. |
 | **ML Tools** | Set of tools and frameworks to apply ML. |
 | **Viewing / Analytics** | Codes to generate insightful visualizations - Exploratory Data Analysis (EDA). |
