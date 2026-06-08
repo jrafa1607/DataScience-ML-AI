@@ -1,6 +1,5 @@
 ### 🗃️🌐 Public Dataset Repositories for Experiments
-
-Below is a curated list of high-quality public dataset repositories to conduct experiments, train models, and study Data Science and Machine Learning techniques:
+List of high-quality public dataset repositories to conduct experiments, train models, and study Data Science and ML techniques:
 
 | Repository / Platform | Description |
 | :--- | :--- |
