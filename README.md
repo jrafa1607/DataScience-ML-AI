@@ -28,7 +28,7 @@ This repository emphasizes practical application and foundational knowledge acro
 
 ### 📚 Other Resources
 
-* **[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science):** A curated list of awesome Python frameworks, libraries, and software related to data science and analysis.
+* **[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science):** A list of Python frameworks, libraries, and software for data science and analysis.
 
 ---
 
