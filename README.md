@@ -1,10 +1,10 @@
-### 📊🤖 Data Science, ML and AI
+## 📊🤖 Data Science, ML and AI
 
 This repository serves as a centralized collection of Python algorithms and resources for **Data Science, Machine Learning (ML), and Artificial Intelligence (AI)**. All code examples and projects were developed and tested using **Google Colab** notebooks.
 
 ---
 
-#### 🔗🎯 Repository Description
+### 🔗🎯 Repository Description
 
 This repository emphasizes practical application and foundational knowledge across various stages of the data science and ML pipeline.
 
@@ -26,13 +26,13 @@ This repository emphasizes practical application and foundational knowledge acro
 
 ---
 
-#### 📚 Other Resources
+### 📚 Other Resources
 
 * **[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science):** A curated list of awesome Python frameworks, libraries, and software related to data science and analysis.
 
 ---
 
-#### ⚖️ Intellectual Property (IP) Notice
+### ⚖️ Intellectual Property (IP) Notice
 
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
