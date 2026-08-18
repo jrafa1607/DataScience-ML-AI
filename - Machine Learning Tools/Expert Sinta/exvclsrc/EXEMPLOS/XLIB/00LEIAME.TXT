@@ -1,3 +1,0 @@
-Não esqueça de instalar o componente presente
-no arquivo ExCtrls2.pas deste diretório antes de
-compilar o projeto.

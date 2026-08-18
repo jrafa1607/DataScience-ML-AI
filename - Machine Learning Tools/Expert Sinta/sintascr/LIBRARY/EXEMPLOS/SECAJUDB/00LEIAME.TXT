@@ -1,2 +1,0 @@
-Não esqueça de antes criar um alias para tabelas Paradox
-sob o nome de SECAJUDB.
