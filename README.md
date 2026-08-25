@@ -12,9 +12,7 @@ This repository emphasizes practical application and foundational knowledge acro
 | --- | --- |
 | **Datasets** | Datasets to Make the Experiments. |
 | **ML Tools** | Set of tools and frameworks to apply ML. |
-| **Papers** | Set of Relevant Papers of DataScience, ML and AI Areas. |
 | **Power BI** | Example of Power BI Application. |
-| **Presentations** | Set of Relevant Presentations of DataScience, ML and AI Areas. |
 | **Viewing / Analytics** | Codes to generate insightful visualizations - Exploratory Data Analysis (EDA). |
 | **Pre-processing** | Codes for Data cleaning, transformation, normalization, handling missing values, etc. |
 | **Dimensionality Reduction** | Codes for reducing the number of features in a Dataset. |
